@@ -124,7 +124,7 @@ Este projeto pode ser expandido com novas funcionalidades, como:
 ---
 
 ## 🔗 Referências
-- [Microsoft Foundry](https://ai.azure.com)  
+- [AI Foundry (Microsoft Azure)](https://ai.azure.com)  
 - [Azure Logic Apps](https://learn.microsoft.com/azure/logic-apps/)
 
 ---
